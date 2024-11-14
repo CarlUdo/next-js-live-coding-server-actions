@@ -1,4 +1,4 @@
-import Couches from "@/features/couch/couches";
+import Couches from "@/features/couch/ui/couches";
 
 export default function Home() {
   return (

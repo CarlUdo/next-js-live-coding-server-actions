@@ -1,3 +1,3 @@
 export * from "./instance";
 export * from "./actions";
-export * from "./couches";
+export * from "./ui/couches";

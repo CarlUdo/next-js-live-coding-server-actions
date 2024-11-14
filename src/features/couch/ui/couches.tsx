@@ -1,6 +1,6 @@
 "use client"
 
-import { addCouchAction } from "./actions";
+import { addCouchAction } from "../actions";
 
 export default function Couches() {
   return (
